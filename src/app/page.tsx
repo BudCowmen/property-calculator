@@ -1,4 +1,4 @@
-import ApartmentCalculator from '@/components/ApartmentCalculator'
+import ApartmentCalculator from '../components/ApartmentCalculator'
 
 export default function Home() {
   return (
